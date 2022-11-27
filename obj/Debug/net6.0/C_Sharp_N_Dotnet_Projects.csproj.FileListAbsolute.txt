@@ -1,0 +1,15 @@
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/bin/Debug/net6.0/C_Sharp_N_Dotnet_Projects
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/bin/Debug/net6.0/C_Sharp_N_Dotnet_Projects.deps.json
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/bin/Debug/net6.0/C_Sharp_N_Dotnet_Projects.runtimeconfig.json
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/bin/Debug/net6.0/C_Sharp_N_Dotnet_Projects.dll
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/bin/Debug/net6.0/C_Sharp_N_Dotnet_Projects.pdb
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.csproj.AssemblyReference.cache
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.AssemblyInfoInputs.cache
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.AssemblyInfo.cs
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.csproj.CoreCompileInputs.cache
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.dll
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/refint/C_Sharp_N_Dotnet_Projects.dll
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.pdb
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/C_Sharp_N_Dotnet_Projects.genruntimeconfig.cache
+/Users/habiburrahman/Web-Projects/C_Sharp_N_Dotnet_Projects/obj/Debug/net6.0/ref/C_Sharp_N_Dotnet_Projects.dll
